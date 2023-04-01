@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Fjalla One', sans-serif;
+}
+body{
+    background-color: #232422;
+    color: white;
+}
+
+header{
+    margin-top: 3rem;
+    text-align: center;
+    font-weight: 900;
+}
+a {text-decoration: none;}
+a p{color: #afc207; font-size: 25px;}
+a p:hover{color:  #E4FD14;}
+
+.text{
+    align-items: center;
+    text-align: center;
+    margin: 2rem 0rem 0rem 0rem;
+}
+.inputs{
+    padding: 1rem;
+}
+input{
+    padding: 10px;
+    font-size: 30px;
+    width: 180px;
+    margin: 10px;
+}
+input:active{
+    background-color: #E4FD14;
+}
+img.voltar{
+    width: 40px;
+    background-color: white;
+    border-radius: 30%;
+    margin-bottom: 2%;
+
+}
+img.voltar:active{
+    background-color: #E4FD14;}
+
+input.check , label{
+    padding: 10px;
+    font-size: 25px;
+    width: 20px;
+    margin: 4px;
+    height: 25px;
+    margin-top: 2%;
+}
+
+.text-opcoes{
+    text-align: center;
+    padding: 2.5rem 0rem 1.5rem 0rem;
+}
+.box{
+    width: 414px;
+}
+.check-box{
+    margin: 1rem 1rem;
+}
